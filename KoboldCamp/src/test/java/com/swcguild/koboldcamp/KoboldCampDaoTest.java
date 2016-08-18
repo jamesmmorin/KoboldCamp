@@ -178,23 +178,23 @@ public class KoboldCampDaoTest {
         dao.addUser(nu2);
 
         User nu3 = new User();
-        nu1.setUsername("FastGuy");
-        nu1.setFirst_name("Jill");
-        nu1.setLast_name("Jordan");
-        nu1.setEmail("callme@calls.com");
-        nu1.setPhone("123456789");
-        nu1.setUser_id(2);
+        nu3.setUsername("FastGuy");
+        nu3.setFirst_name("Jill");
+        nu3.setLast_name("Jordan");
+        nu3.setEmail("callme@calls.com");
+        nu3.setPhone("123456789");
+        nu3.setUser_id(2);
 
         User nu4 = new User();
-        nu1.setPassword("cool");
-        nu1.setUser_id(1);
+        nu4.setPassword("cool");
+        nu4.setUser_id(1);
 
         dao.editUser(nu3);
         dao.resetPassword(2);
         dao.updatePassword(nu4);
 
         List<User> uList = dao.getAllUsers();
-        assertEquals(2, uList.size());
+        assertEquals(4, uList.size());
 //        assertTrue(uList.contains(nu1));
 //        assertTrue(uList.contains(nu2));
 

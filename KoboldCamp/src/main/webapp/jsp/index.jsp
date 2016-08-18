@@ -48,7 +48,7 @@
                         </li>
                         <li><a href="#about">THE WEST</a>
                         </li>
-                        <li><a href="${pageContext.request.contextPath}/rentals">RENTALS</a>
+                        <li><a href="#tours">TOURS</a>
                         </li>
                         <li><a href="#contact-sec">CONTACT</a>
                         </li>
@@ -62,12 +62,6 @@
             <!-- /.container -->
         </nav>
         <!--End Navigation -->
-
-
-
-
-
-
 
 
 
@@ -118,8 +112,8 @@
 
                             <h3>Wildlife </h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                                From Elk and Bison to Wolves and Grizzly Bears, learn about the wildlife 
+                                that had made this part of our country famous for hundreds of years.
                             </p>
 
                         </div>
@@ -130,12 +124,12 @@
                         <div class="about-div">
 
                             <i class="fa fa-tree fa-4x main-color-red"></i>
-
-
+                            
                             <h3>Scenic Nature </h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                                With some of the most breathtaking scenery you'll find the world over, 
+                                this area has been drawing people here since the time
+                                of Lewis and Clark.
                             </p>
 
                         </div>
@@ -150,8 +144,8 @@
 
                             <h3>Rentals </h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                                Hike, camp, fish, canoe, kayak, or whatever else floats your boat (pun intended)
+                                we have it. Wanna rent a pair of binoculars? Give us a call. We rent out single items.
                             </p>
 
                         </div>
@@ -166,8 +160,8 @@
 
                             <h3>Subscribe </h3>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                                Live near us? Coming to visit? Follow us on all the regular social media channels. 
+                                If you're ever in our neck of the woods, send us a message. We'd love to see you! 
                             </p>
 
                         </div>
@@ -188,23 +182,24 @@
 
         </section>
 
+        <!--///////////////////////////////////////////////////-->
+        <!--Words for first background picture go below-->
+        <!--///////////////////////////////////////////////////-->
         <section class="for-full-back " id="Parallax-one">
             <div class="container">
 
                 <div class="row text-center for-parallax-one">
                     <div class="col-md-6 ">
-                        <h3>Lorem ipsum dolor</h3>
+                        <h3></h3>
                         <h4>
-                            <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                            <strong>
                             </strong>
                         </h4>
                     </div>
                     <div class="col-md-6 ">
-                        <h3>Lorem ipsum dolor</h3>
+                        <h3></h3>
                         <h4>
-                            <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                            <strong>
                             </strong>
                         </h4>
                     </div>
@@ -218,75 +213,101 @@
 
 
 
+        <!--///////////////////////-->
+        <!-- TOURS SECTION -->
+        <!--//////////////////////-->
 
-        <!-- Pricing Section -->
-
-        <section class="for-full-back color-white " id="price-sec">
+        <section class="for-full-back color-white " id="tours">
             <div class="container">
+
                 <div class="row text-center">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1>LITTLE PRICING SCHEDULE</h1>
+                        <h1>Take a Gander at the Tours we Offer</h1>
                         <h4>
-                            <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                            <strong>Look through the different tours we offer, and let us know if you find what you're 
+                                looking for. Nothing we offer quite fitting the bill? Give us a call, or send us an email.
+                                We would love to build a custom tour to fit your requirements. 
                             </strong>
                         </h4>
                     </div>
 
                 </div>
-                <div class="row text-center">
 
-                    <div class="col-md-12 ">
+                <div class="row text-center space-pad">
+                    <div class="col-md-3 ">
+
+                        <div class="about-div">
+
+                            <i class="fa fa-camera fa-4x main-color-red"></i>
 
 
+                            <h3>Yellowstone Tours</h3>
+                            <p>
+                                From Elk and Bison to Wolves and Grizzly Bears, learn about the wildlife 
+                                that had made this part of our country famous for hundreds of years.
+                            </p>
 
-                        <div class="col-md-3">
-                            <ul class="plan">
-                                <li class="plan-head">BASIC RATE</li>
-                                <li class="main-price">$99 only</li>
-                                <li><strong>per </strong>hour</li>
-                                <li class="bottom">
-                                    <a class="btn btn-default">BOOK</a>
-                                </li>
-                            </ul>
                         </div>
 
-                        <div class="col-md-3">
-                            <ul class="plan">
-                                <li class="plan-head">SIMPLE RATE</li>
-                                <li class="main-price">$199 only</li>
-                                <li><strong>per </strong>hour</li>
-                                <li class="bottom">
-                                    <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-3">
-                            <ul class="plan">
-                                <li class="plan-head">VALUE RATE</li>
-                                <li class="main-price">$299 only</li>
-                                <li><strong>per </strong>hour</li>
-                                <li class="bottom">
-                                    <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                                </li>
-                            </ul>
+                    </div>
+                    <div class="col-md-3 ">
+
+                        <div class="about-div">
+
+                            <i class="fa fa-map fa-4x main-color-red"></i>
+                            
+                            <h3>Teton Tours</h3>
+                            <p>
+                                With some of the most breathtaking scenery you'll find the world over, 
+                                this area has been drawing people here since the time
+                                of Lewis and Clark.
+                            </p>
+
                         </div>
 
-                        <div class="col-md-3">
-                            <ul class="plan">
-                                <li class="plan-head">ADVANCE RATE</li>
-                                <li class="main-price">$399 only</li>
-                                <li><strong>per </strong>hour</li>
-                                <li class="bottom">
-                                    <a href="#contact-sec" class="btn btn-default">BOOK</a>
-                                </li>
-                            </ul>
+                    </div>
+                    <div class="col-md-3 ">
+
+                        <div class="about-div">
+
+                            <i class="fa fa-binoculars fa-4x main-color-red"></i>
+
+
+                            <h3>River and Park Tours</h3>
+                            <p>
+                                Hike, camp, fish, canoe, kayak, or whatever else floats your boat (pun intended)
+                                we have it. Wanna rent a pair of binoculars? Give us a call. We rent out single items.
+                            </p>
+
+                        </div>
+
+                    </div>
+                    <div class="col-md-3 ">
+
+                        <div class="about-div">
+
+                            <i class="fa fa-bus fa-4x main-color-red"></i>
+
+
+                            <h3>Bus Tours</h3>
+                            <p>
+                                Live near us? Coming to visit? Follow us on all the regular social media channels. 
+                                If you're ever in our neck of the woods, send us a message. We'd love to see you! 
+                            </p>
+
                         </div>
 
                     </div>
                 </div>
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <h2></h2>
+                        <p>
 
+                        </p>
+                    </div>
 
+                </div>
             </div>
         </section>
 
@@ -295,10 +316,9 @@
 
                 <div class="row text-center">
                     <div class="col-md-8 col-md-offset-2 ">
-                        <h2>Lorem ipsum dolor sit</h2>
+                        <h2></h2>
                         <h4>
-                            <strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                            <strong>
                             </strong>
                         </h4>
                     </div>
@@ -340,12 +360,12 @@
                         </div>
                     </div>
                     <div class="col-md-7">
-                        <h2>Lorem ipsum dolor sit amet</h2>
+                        <h2>Not ready to call us? Send an email instead then</h2>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                            We're pretty good about responding to emails within the first 24 hours.
+                            If you have an urgent question and need to speak with someone right away,
+                            please feel free to give us a call anytime (our number is listed over to
+                            the left, under our address). We look forward to talking with you!
 
 
                         </p>

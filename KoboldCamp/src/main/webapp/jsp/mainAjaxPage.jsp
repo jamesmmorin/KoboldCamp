@@ -76,10 +76,7 @@
                         <h1 class="head-main">KOBOLD CAMP</h1>
                         <h2 class="head-sub-main">Go West</h2>
                         <div class="head-last"></div>
-
                     </div>
-
-
                 </div>
             </div>
             <!--End Header section  -->
@@ -114,8 +111,7 @@
 
                                 <h3>Wildlife </h3>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                    Curabitur nec nisl odio. Mauris vehicula at nunc id posuere.
+                                    Learn about the wildlife that makes this part of our country famous.
                                 </p>
 
                             </div>

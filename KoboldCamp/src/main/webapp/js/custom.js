@@ -39,9 +39,9 @@
             $(function () {
                 $.vegas('slideshow', {
                     backgrounds: [
-                      { src: 'img/1.jpg', fade: 2000, delay: 9000 } 
-//                      { src: 'img/5.jpg', fade: 2000, delay: 9000 },
-//                      { src: 'img/6.jpg', fade: 2000, delay: 9000 }
+                      { src: 'img/1.jpg', fade: 2000, delay: 9000 },
+                      { src: 'img/5.jpg', fade: 2000, delay: 9000 },
+                      { src: 'img/6.jpg', fade: 2000, delay: 9000 }
                     ]
                     
                 })('overlay', {
